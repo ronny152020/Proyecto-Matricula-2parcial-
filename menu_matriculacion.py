@@ -1,4 +1,3 @@
-from typing import get_origin
 from funciones_archivos import Archivo
 from funciones_pantalla import gotoxy,borrarPantalla,valida
 from menu_mantenimiento import Periodo,Estudiante,Carrera
